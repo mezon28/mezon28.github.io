@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://arara.xyz/atom.xml" rel="self" type="application/atom+xml" /><link href="https://arara.xyz/" rel="alternate" type="text/html" /><updated>2019-12-20T01:07:47+09:00</updated><id>https://arara.xyz/atom.xml</id><title type="html">あらら.xyz</title><subtitle>あらら.xyz - 知識を増える</subtitle><entry><title type="html">GPSはどのように機能しますか？</title><link href="https://arara.xyz/%E6%8A%80%E8%A1%93/2019/12/19/gps-dou-kinou.html" rel="alternate" type="text/html" title="GPSはどのように機能しますか？" /><published>2019-12-19T00:00:00+09:00</published><updated>2019-12-19T00:00:00+09:00</updated><id>https://arara.xyz/%E6%8A%80%E8%A1%93/2019/12/19/gps-dou-kinou</id><content type="html" xml:base="https://arara.xyz/%E6%8A%80%E8%A1%93/2019/12/19/gps-dou-kinou.html">&lt;p&gt;全地球測位システム（GPS）は、高度20,000 kmで地球を周回する約30の衛星のネットワークです。このシステムはもともと米国政府によって軍事航法のために開発されたものですが、現在では、衛星デバイスが送信する無線信号を受信できるのは、SatNav、携帯電話、ハンドヘルドGPSユニットなどのGPSデバイスです。&lt;/p&gt;
+
+&lt;p&gt;地球上のどこにいても、少なくとも4つのGPS衛星がいつでも「見える」。それぞれが定期的に位置と現在時刻に関する情報を送信します。光の速度で進行するこれらの信号は、GPS受信機によって傍受されます。GPS受信機は、メッセージが到着するまでにかかった時間に基づいて各衛星の距離を計算します。&lt;/p&gt;
+
+&lt;p&gt;少なくとも3つの衛星の距離に関する情報が得られると、GPS受信機は、三辺測量と呼ばれるプロセスを使用して現在地を特定できます。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;三辺測量&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;地球上のどこかに、3つの衛星があなたの頭上にあると想像してください。衛星Aからの距離がわかっている場合は、赤い円のどこかにいる必要があります。サテライトBとサテライトCで同じことを行う場合、3つの円が交差する場所を確認することで、位置を特定できます。これは、GPS受信機が行うことですが、円ではなく重なり合う球を使用します。&lt;/p&gt;
+
+&lt;p&gt;地平線上に衛星が多いほど、GPSユニットは現在地をより正確に判断できます。&lt;/p&gt;
+
+&lt;p&gt;GPSと相対性理論&lt;/p&gt;
+
+&lt;p&gt;GPS衛星には、正確な時刻を維持するための原子時計が搭載されています。しかし、一般相対論と特殊相対論は、これらの時計と地球上の同一の時計との間に違いが現れると予測しています。&lt;/p&gt;
+
+&lt;p&gt;一般相対性理論は、重力が強く引っ張られると時間が遅くなるように見えると予測しています。したがって、衛星に搭載されている時計は、地球上の時計よりも速く動くように見えます。&lt;/p&gt;
+
+&lt;p&gt;さらに、特殊相対性理論は、衛星の時計が地球上の時計に相対して動いているため、より遅く動くように見えると予測しています。&lt;/p&gt;
+
+&lt;p&gt;GPSネットワーク全体は、これらの影響を考慮に入れなければなりません。これは、相対性理論が実際に影響を与えていることの証明です。&lt;/p&gt;</content><author><name></name></author><category term="GPS" /><category term="三辺測量" /><summary type="html">全地球測位システム（GPS）は、高度20,000 kmで地球を周回する約30の衛星のネットワークです。このシステムはもともと米国政府によって軍事航法のために開発されたものですが、現在では、衛星デバイスが送信する無線信号を受信できるのは、SatNav、携帯電話、ハンドヘルドGPSユニットなどのGPSデバイスです。</summary></entry></feed>
