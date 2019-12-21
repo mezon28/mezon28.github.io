@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://arara.xyz/atom.xml" rel="self" type="application/atom+xml" /><link href="https://arara.xyz/" rel="alternate" type="text/html" /><updated>2019-12-21T01:56:03+09:00</updated><id>https://arara.xyz/atom.xml</id><title type="html">あらら.xyz</title><subtitle>あらら.xyz - 知識を増やしたい</subtitle><entry><title type="html">自動車エンジンはどのように動作しますか</title><link href="https://arara.xyz/%E6%8A%80%E8%A1%93/2019/12/21/how-car-engine-work.html" rel="alternate" type="text/html" title="自動車エンジンはどのように動作しますか" /><published>2019-12-21T00:00:00+09:00</published><updated>2019-12-21T00:00:00+09:00</updated><id>https://arara.xyz/%E6%8A%80%E8%A1%93/2019/12/21/how-car-engine-work</id><content type="html" xml:base="https://arara.xyz/%E6%8A%80%E8%A1%93/2019/12/21/how-car-engine-work.html">&lt;p&gt;内燃エンジンは、ガソリンの燃焼熱からエネルギーを機械的仕事またはトルクに変換するという点で熱エンジンです。 そのトルクが車輪に加えられ、車が動きます。 そして、古い2サイクルサーブ（古いチェーンソーのように聞こえ、排気から油っぽい煙が出ているように聞こえる）を運転していない限り、エンジンはフォードとフェラーリのどちらを運転しても同じ基本原理で動作します。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://arara.xyz/atom.xml" rel="self" type="application/atom+xml" /><link href="https://arara.xyz/" rel="alternate" type="text/html" /><updated>2019-12-21T15:13:04+09:00</updated><id>https://arara.xyz/atom.xml</id><title type="html">あらら.xyz</title><subtitle>あらら.xyz - 知識を増やしたい</subtitle><entry><title type="html">エアコンの仕組み</title><link href="https://arara.xyz/%E6%8A%80%E8%A1%93/2019/12/21/how-air-conditional-work.html" rel="alternate" type="text/html" title="エアコンの仕組み" /><published>2019-12-21T00:00:00+09:00</published><updated>2019-12-21T00:00:00+09:00</updated><id>https://arara.xyz/%E6%8A%80%E8%A1%93/2019/12/21/how-air-conditional-work</id><content type="html" xml:base="https://arara.xyz/%E6%8A%80%E8%A1%93/2019/12/21/how-air-conditional-work.html">&lt;p&gt;エネルギー保存と呼ばれる基本的な物理法則では、エネルギーを作ったり破壊したりすることはできません。不要なエネルギー（キッチンの熱など）がある場合、それを完全に取り除くことはできません。 できることは、別の形式に変更するか、別の場所に移動することだけです。 キッチンを冷やすために冷蔵庫のドアを開けると、引き込まれる熱はどこか別の場所に行かなければなりません。 それが行くことができる唯一の場所は、機械の後ろからです。 冷蔵庫の背面にあるフィンのグリッドが非常に熱くなることに気付いたかもしれません。そのため、通常は内部にあるすべての熱を放出しています。 詳しくは、冷蔵庫の仕組みに関する記事をご覧ください。&lt;/p&gt;
+
+&lt;h2 id=&quot;エアコンの作り方&quot;&gt;エアコンの作り方&lt;/h2&gt;
+
+&lt;p&gt;冷蔵庫を取り、その周りに家を建てて、マシンの半分（チラーキャビネット）が家の中にあり、残りの半分（背面の熱いフィンのグリッド）が外にあるとします。 ドアを開いたままにすると、実際に使用できるのは、本格的なエアコンです。 それはあなたの家の中から熱を取り込み、外で再び吐き出し、その過程であなたの家を徐々に冷やします。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn4.explainthatstuff.com/air-conditioning-principle.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;最も単純なエアコンユニットは、空気をより速く循環させるために両側にファンがあることを除いて、ほぼこの方法で動作します。 彼らはまた、寒い日に部屋の空気を温めたり、暖かい日に冷やしたりできるように、発熱体を内蔵しています。 このような機械は、HVAC（暖房および換気空調ユニット）と呼ばれることもあります。 より精巧なエアコンは、長いダクトを使用して建物全体に温められた空気または冷却された空気を配管しますが、それでも基本的に同じように機能します。&lt;/p&gt;
+
+&lt;h2 id=&quot;仕組み&quot;&gt;仕組み&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;部屋からの温かい空気は、機械の底にあるグリルから吸い込まれます&lt;/li&gt;
+  &lt;li&gt;空気は、冷却液が循環するいくつかのチラーパイプの上を流れます。機械のこの部分は、冷蔵庫のチラーキャビネットのように機能します。入ってくる空気を冷却し、除湿機で余分な水分を取り除きます。&lt;/li&gt;
+  &lt;li&gt;次に、空気は加熱要素（ファンヒーターの場合と同様）の上を流れます。寒い日には、ユニットのこの部分を上に向けて、HVACがヒーターとして機能するようにします。&lt;/li&gt;
+  &lt;li&gt;上部のファンが、別のグリルを通して部屋に空気を吹き戻します。発熱体を下げると、部屋に再び入る空気ははるかに冷たくなるため、部屋は徐々に冷やされます。&lt;/li&gt;
+  &lt;li&gt;その間、冷却液（揮発しやすい揮発性液体）がチラーパイプを流れます。そうすると、パイプを通過する空気から熱を奪い、蒸発して、冷たい液体からより熱いガスに変わります。この熱を部屋の内側から建物の外側に運び、そこで熱を外気に放出します。どうやって？冷蔵庫のように、冷媒はコンプレッサーユニットといくつかの凝縮パイプを通って流れ、ループを再び循環する準備ができた冷たい液体に戻ります。&lt;/li&gt;
+  &lt;li&gt;熱はどうなりますか？建物の外のユニットには、熱を大気に放散する金属板がたくさんあります。電動ファンが空気を吹き付けてプロセスを加速します。&lt;/li&gt;
+  &lt;li&gt;時間が経つにつれて、建物内の熱は徐々に外気に排出されます。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn4.explainthatstuff.com/how-air-conditioner-works.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="エアコン" /><summary type="html">エネルギー保存と呼ばれる基本的な物理法則では、エネルギーを作ったり破壊したりすることはできません。不要なエネルギー（キッチンの熱など）がある場合、それを完全に取り除くことはできません。 できることは、別の形式に変更するか、別の場所に移動することだけです。 キッチンを冷やすために冷蔵庫のドアを開けると、引き込まれる熱はどこか別の場所に行かなければなりません。 それが行くことができる唯一の場所は、機械の後ろからです。 冷蔵庫の背面にあるフィンのグリッドが非常に熱くなることに気付いたかもしれません。そのため、通常は内部にあるすべての熱を放出しています。 詳しくは、冷蔵庫の仕組みに関する記事をご覧ください。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.kajitaku.com/column/wp-content/uploads/2017/12/shutterstock_315007316.jpg" /><media:content medium="image" url="https://www.kajitaku.com/column/wp-content/uploads/2017/12/shutterstock_315007316.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">自動車エンジンはどのように動作しますか</title><link href="https://arara.xyz/%E6%8A%80%E8%A1%93/2019/12/21/how-car-engine-work.html" rel="alternate" type="text/html" title="自動車エンジンはどのように動作しますか" /><published>2019-12-21T00:00:00+09:00</published><updated>2019-12-21T00:00:00+09:00</updated><id>https://arara.xyz/%E6%8A%80%E8%A1%93/2019/12/21/how-car-engine-work</id><content type="html" xml:base="https://arara.xyz/%E6%8A%80%E8%A1%93/2019/12/21/how-car-engine-work.html">&lt;p&gt;内燃エンジンは、ガソリンの燃焼熱からエネルギーを機械的仕事またはトルクに変換するという点で熱エンジンです。 そのトルクが車輪に加えられ、車が動きます。 そして、古い2サイクルサーブ（古いチェーンソーのように聞こえ、排気から油っぽい煙が出ているように聞こえる）を運転していない限り、エンジンはフォードとフェラーリのどちらを運転しても同じ基本原理で動作します。&lt;/p&gt;
 
 &lt;p&gt;エンジンには、シリンダーと呼ばれる金属チューブ内で上下に動くピストンがあります。 自転車に乗ることを想像してください。足を上下に動かしてペダルを回します。 ピストンはロッドを介してクランクシャフトに接続され（あなたのすねのようなものです）、上下に移動してエンジンのクランクシャフトを回転させます。 。 車両によって異なりますが、通常、エンジンには2〜12個のシリンダーがあり、それぞれにピストンが上下に動きます。&lt;/p&gt;
 
