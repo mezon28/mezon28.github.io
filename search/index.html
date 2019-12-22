@@ -55,19 +55,19 @@
 
   <body class="layout--search  search">
     <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
+  <h2 class="screen-reader-text">リンクをスキップ</h2>
   <ul>
-    <li><a href="#primary-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
-    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
-    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+    <li><a href="#primary-nav" class="screen-reader-shortcut">プライマリナビゲーションにスキップ</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">コンテンツにスキップ</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">フッターにスキップ</a></li>
   </ul>
 </nav>
 
     
   <div class="navigation-wrapper">
-    <a href="#menu-toggle" id="menu-toggle">Menu</a>
+    <a href="#menu-toggle" id="menu-toggle">メニュー</a>
     <nav id="primary-nav" class="site-nav animated drop">
-      <ul><li><a href="/posts/">投稿</a></li><li><a href="/categories/">カテゴリ</a></li><li><a href="/tags/">タグ</a></li><li><a href="/search/">検索</a></li></ul>
+      <ul><li><a href="/posts/">投稿</a></li><li><a href="/categories/">カテゴリ</a></li></ul>
     </nav>
   </div><!-- /.navigation-wrapper -->
 
@@ -106,7 +106,7 @@
 
 
 <form onsubmit="return false;">
-  <input type="input" id="search" class="search-input" placeholder="Enter your search term..." autofocus>
+  <input type="input" id="search" class="search-input" placeholder="検索..." autofocus>
 </form>
 
 <div id="results"></div>
@@ -186,7 +186,7 @@
             })
           });
         resultdiv.empty();
-        resultdiv.prepend('<p class="results__found">' + result.length + ' Result(s) found</p>');
+        resultdiv.prepend('<p class="results__found">' + result.length + ' 見つかった結果</p>');
         for (var item in result) {
           var ref = result[item].ref;
           var searchitem =
